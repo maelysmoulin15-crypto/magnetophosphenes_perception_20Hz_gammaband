@@ -228,8 +228,7 @@ publication are reported in the article and its supplementary materials.
 
 If you use this processing pipeline, please cite the associated article:
 
-> *Broadband gamma-band EEG changes during magnetophosphene perception induced
-> by 20 Hz magnetic field stimulation.*
+> *Broadband gamma-band EEG changes during magnetophosphene-inducing 20 Hz magnetic field stimulation*
 >
 > Preprint: [https://doi.org/10.64898/2026.04.15.718626](https://doi.org/10.64898/2026.04.15.718626)
 
